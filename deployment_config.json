@@ -1,7 +1,7 @@
 {
    "appName": "Legendary-Sniffle",
    "deploymentEnv": "DEV",
-   "isDomainApp": true
+   "isDomainApp": true,
    "description": "Mule Domain Application",
    "buildPath": "WESB/AsynchApplications/wefdomain",
    "buildCommand": "mvn clean install -DskipTests",
