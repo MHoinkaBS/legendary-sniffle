@@ -1,5 +1,5 @@
 {
-   "appName": "Legendary-Sniffle",
+   "appName": "legendary-sniffle",
    "deploymentEnv": "DEV",
    "isDomainApp": true,
    "description": "Mule Domain Application",
