@@ -3,7 +3,7 @@
    "deploymentEnv": "DEV",
    "isDomainApp": true,
    "description": "Mule Domain Application",
-   "buildPath": "WESB/AsynchApplications/wefdomain",
+   "buildPath": "legendary-sniffle",
    "buildCommand": "mvn clean install -DskipTests",
    "unitTestsCommand": "mvn test",
    "updateDatabase": true
