@@ -1,10 +1,10 @@
 {
    "appName": "legendary-sniffle",
-   "deploymentEnv": "DEV",
    "isDomainApp": true,
    "description": "Mule Domain Application",
    "buildPath": "legendary-sniffle",
    "buildCommand": "mvn clean install -DskipTests",
    "unitTestsCommand": "mvn test",
+   "mUnitTestsCommand": "mvn clean test -Dmunit.test=",   
    "updateDatabase": true
 }
