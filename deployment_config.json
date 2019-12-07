@@ -5,6 +5,6 @@
    "buildPath": "legendary-sniffle",
    "buildCommand": "mvn clean install -DskipTests",
    "unitTestsCommand": "mvn test",
-   "mUnitTestsCommand": "mvn clean test -Dmunit.test=",   
+//   "mUnitTestsCommand": "mvn clean test -Dmunit.test=",   
    "updateDatabase": true
 }
