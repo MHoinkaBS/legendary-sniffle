@@ -4,7 +4,7 @@
 
   <groupId>com.mycompany.legendary-sniffle</groupId>
   <artifactId>my-app</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.8-SNAPSHOT</version>
 
   <properties>
     <maven.compiler.source>1.7</maven.compiler.source>
